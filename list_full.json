@@ -1,0 +1,1557 @@
+[
+  {
+    "Casino Name": "Northern Club",
+    "Open Date": "1931-03-20",
+    "Close Date": "1942-12-??",
+    "Status": "Renamed/Converted",
+    "Address": "15 E Fremont St, Las Vegas, NV",
+    "Location Category": "Downtown",
+    "Ownership": "Mayme Stocker (original owner)",
+    "Description/Theme": "First establishment to receive a gaming license in 1931.",
+    "Notable Events": "Renamed the Turf Club in 1943, then Monte Carlo Club in 1945."
+  },
+  {
+    "Casino Name": "La Bayou",
+    "Open Date": "1980s (as La Bayou)",
+    "Close Date": "2016-06-27",
+    "Status": "Closed",
+    "Address": "15 E Fremont St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Derek Stevens",
+    "Description/Theme": "Slots-only, Mardi Gras theme.",
+    "Notable Events": "Site of Vegas’s first gaming license (Northern Club); closed in 2016 for downtown redevelopment."
+  },
+  {
+    "Casino Name": "Las Vegas Club",
+    "Open Date": "c.1930",
+    "Close Date": "2015-08-19",
+    "Status": "Closed/Demolished",
+    "Address": "18 Fremont St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Sam Boyd/Derek Stevens",
+    "Description/Theme": "Historic downtown casino, sports/baseball theme in later years.",
+    "Notable Events": "Originated 1930s; relocated in 1949; closed 2015 and demolished for Circa resort."
+  },
+  {
+    "Casino Name": "Binion’s Horseshoe",
+    "Open Date": "1951",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "128 E Fremont St, Las Vegas, NV",
+    "Location Category": "Downtown",
+    "Ownership": "Binion Family/TLC",
+    "Description/Theme": "Western, poker icon.",
+    "Notable Events": "World Series of Poker home."
+  },
+  {
+    "Casino Name": "Golden Nugget Las Vegas",
+    "Open Date": "1946-08-30",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "129 Fremont St, Las Vegas, NV",
+    "Location Category": "Downtown",
+    "Ownership": "Landry’s, Inc.",
+    "Description/Theme": "Classic luxury.",
+    "Notable Events": "World’s largest gold nugget."
+  },
+  {
+    "Casino Name": "El Cortez",
+    "Open Date": "1941-11-07",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "600 E Fremont St, Las Vegas, NV",
+    "Location Category": "Downtown",
+    "Ownership": "Gaughan family",
+    "Description/Theme": "Spanish Colonial.",
+    "Notable Events": "Oldest continuously operating casino."
+  },
+  {
+    "Casino Name": "El Rancho Vegas",
+    "Open Date": "1941",
+    "Close Date": "1960-06-17",
+    "Status": "Closed/Demolished",
+    "Address": "Las Vegas Blvd & Sahara Ave",
+    "Location Category": "Strip",
+    "Ownership": "Thomas Hull",
+    "Description/Theme": "Western ranch theme.",
+    "Notable Events": "First Strip hotel, destroyed by fire."
+  },
+  {
+    "Casino Name": "Last Frontier (New Frontier)",
+    "Open Date": "1942-10-30",
+    "Close Date": "2007-07-16",
+    "Status": "Closed/Demolished",
+    "Address": "3120 Las Vegas Blvd S, Paradise, NV",
+    "Location Category": "Strip",
+    "Ownership": "Phil Ruffin",
+    "Description/Theme": "Wild West, later space-age.",
+    "Notable Events": "Elvis's first Vegas gig."
+  },
+  {
+    "Casino Name": "Flamingo Hotel & Casino",
+    "Open Date": "1946-12-26",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3555 Las Vegas Blvd S, Paradise, NV",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Art Deco, tropical.",
+    "Notable Events": "Bugsy Siegel project."
+  },
+  {
+    "Casino Name": "Thunderbird/Silverbird/El Rancho (1982)",
+    "Open Date": "1948-09-02",
+    "Close Date": "1992",
+    "Status": "Closed/Demolished",
+    "Address": "2755 Las Vegas Blvd S, Paradise, NV",
+    "Location Category": "Strip",
+    "Ownership": "Marion Hicks/Ed Torres/Aladdin",
+    "Description/Theme": "Multiple incarnations.",
+    "Notable Events": "Imploded 2000."
+  }
+  [
+  {
+    "Casino Name": "Sahara Las Vegas",
+    "Open Date": "1952-10-07",
+    "Close Date": "2011-05-16",
+    "Status": "Operating",
+    "Address": "2535 Las Vegas Blvd S, Las Vegas, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Curacao Holdings, Sam Nazarian (SBE), Meruelo Group",
+    "Description/Theme": "Moroccan Sahara desert theme.",
+    "Notable Events": "Hangout of the Rat Pack in the 1960s; closed 2011 after 59 years, then reopened as SLS (2014–2017), restored to Sahara in 2019."
+  },
+  {
+    "Casino Name": "Sands Hotel and Casino",
+    "Open Date": "1952-12-15",
+    "Close Date": "1996-06-30",
+    "Status": "Closed/Demolished",
+    "Address": "3355 Las Vegas Blvd S (now The Venetian)",
+    "Location Category": "Strip",
+    "Ownership": "Jack Entratter, Howard Hughes, Sheldon Adelson",
+    "Description/Theme": "Ultra-luxe, Copa Room nightclub.",
+    "Notable Events": "Hosted Sinatra’s Rat Pack, site of 1960 Vegas Summit in Ocean’s 11; imploded 1996 for The Venetian."
+  },
+  {
+    "Casino Name": "Riviera (Hotel & Casino)",
+    "Open Date": "1955-04-20",
+    "Close Date": "2015-05-04",
+    "Status": "Closed/Demolished",
+    "Address": "2901 Las Vegas Blvd S, Las Vegas, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Meyer Lansky, various public owners, last MGM/LVCVA",
+    "Description/Theme": "Modernist Vegas, later “Monte Carlo” style.",
+    "Notable Events": "60 years on Strip; featured in 'Casino'; demolished 2016 for Convention Center expansion."
+  },
+  {
+    "Casino Name": "Showboat (Castaways)",
+    "Open Date": "1954-09-03",
+    "Close Date": "2004-01-29",
+    "Status": "Closed/Demolished",
+    "Address": "2800 E Fremont St, Las Vegas, NV 89104",
+    "Location Category": "Off-Strip",
+    "Ownership": "J. Kell Houssels Jr., Harrah’s, Station Casinos",
+    "Description/Theme": "Riverboat (Showboat), then tropical (Castaways)",
+    "Notable Events": "Famed for 106-lane bowling alley; rebranded to Castaways 2000; closed 2004, imploded 2005."
+  },
+  {
+    "Casino Name": "Tropicana Las Vegas",
+    "Open Date": "1957-04-04",
+    "Close Date": "2024",
+    "Status": "Operating (closing for redevelopment)",
+    "Address": "3801 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Penn Entertainment, leased to Bally’s Corp",
+    "Description/Theme": "South Beach Miami tropical theme.",
+    "Notable Events": "Folies Bergère for 50 years; slated for demolition in 2024 for new sports arena."
+  },
+  {
+    "Casino Name": "Dunes Hotel & Casino",
+    "Open Date": "1955-05-23",
+    "Close Date": "1993-01-26",
+    "Status": "Closed/Demolished",
+    "Address": "3600 Las Vegas Blvd S (now Bellagio site)",
+    "Location Category": "Strip",
+    "Ownership": "Major Riddle, Morris Shenker, Steve Wynn",
+    "Description/Theme": "Arabian Nights palace.",
+    "Notable Events": "35-ft sultan statue; bought by Steve Wynn, imploded 1993."
+  },
+  {
+    "Casino Name": "Stardust Resort and Casino",
+    "Open Date": "1958-07-02",
+    "Close Date": "2006-11-01",
+    "Status": "Closed/Demolished",
+    "Address": "3000 Las Vegas Blvd S (now Resorts World)",
+    "Location Category": "Strip",
+    "Ownership": "John Factor, Boyd Gaming",
+    "Description/Theme": "Space/cosmic, then modern.",
+    "Notable Events": "World's largest casino at opening; mob skimming scandals; closed/demolished for Echelon/Resorts World."
+  },
+  {
+    "Casino Name": "Circus Circus",
+    "Open Date": "1968-10-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2880 Las Vegas Blvd S, Las Vegas, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Jay Sarno, Phil Ruffin (current)",
+    "Description/Theme": "Big-top circus theme.",
+    "Notable Events": "Famous neon clown; live circus acts; family-oriented, later added hotel towers."
+  },
+  {
+    "Casino Name": "Caesars Palace",
+    "Open Date": "1966-08-05",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3570 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Roman Empire/columns/statues.",
+    "Notable Events": "Heavyweight boxing, epic theming, opened 1966."
+  },
+  {
+    "Casino Name": "Aladdin (original)",
+    "Open Date": "1966-04-01",
+    "Close Date": "1997-11-25",
+    "Status": "Closed/Demolished",
+    "Address": "3667 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Milton Prell, Parvin-Dohrmann Corp.",
+    "Description/Theme": "Arabian Nights, Aladdin’s Lamp.",
+    "Notable Events": "Formerly Tallyho (1962); Elvis & Priscilla wedding; closed/imploded 1997-98."
+  },
+  {
+    "Casino Name": "Aladdin (new) / Planet Hollywood",
+    "Open Date": "2000-08-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3667 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "London Clubs & Sommer Family, now Caesars/Planet Hollywood",
+    "Description/Theme": "Rebooted Arabian, later Hollywood/cinema theme.",
+    "Notable Events": "Reopened April 2007 as Planet Hollywood after Aladdin bankruptcy."
+  },
+  {
+    "Casino Name": "Hacienda (Strip)",
+    "Open Date": "1956-10-17",
+    "Close Date": "1996-12-31",
+    "Status": "Closed/Demolished",
+    "Address": "3950 Las Vegas Blvd S (now Mandalay Bay)",
+    "Location Category": "Strip",
+    "Ownership": "Warren Bayley, later Circus Circus Enterprises",
+    "Description/Theme": "Western Americana (horse-and-rider neon).",
+    "Notable Events": "Southernmost Strip hotel; imploded New Year’s Eve 1996."
+  },
+  {
+    "Casino Name": "Hoover Dam Lodge (Gold Strike/Hacienda)",
+    "Open Date": "1958-05",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "US Hwy 93, Boulder City, NV",
+    "Location Category": "Boulder City Area",
+    "Ownership": "Circus Circus Enterprises, Nevada Restaurant Services (Dotty’s)",
+    "Description/Theme": "Motor lodge, lake/Hacienda theme.",
+    "Notable Events": "Gold Strike Inn 1958; fire and rebuild; rebranded 2015."
+  }
+]
+[
+  {
+    "Casino Name": "Westward Ho",
+    "Open Date": "1963",
+    "Close Date": "2005-11-17",
+    "Status": "Closed/Demolished",
+    "Address": "2900 Las Vegas Blvd S, Las Vegas, NV",
+    "Location Category": "Strip",
+    "Ownership": "Dean Peterson",
+    "Description/Theme": "Western-themed motel/casino.",
+    "Notable Events": "World's largest motel at one time; cheap drinks and hot dogs; closed 2005 for Echelon/Resorts World."
+  },
+  {
+    "Casino Name": "MGM Grand (original, now Horseshoe)",
+    "Open Date": "1973-12-04",
+    "Close Date": "1986",
+    "Status": "Renamed",
+    "Address": "3645 Las Vegas Blvd S, Paradise, NV",
+    "Location Category": "Strip",
+    "Ownership": "Kirk Kerkorian/MGM, then Bally Manufacturing",
+    "Description/Theme": "Hollywood/MGM Studios theme.",
+    "Notable Events": "1980 fire, later became Bally’s (now Horseshoe)."
+  },
+  {
+    "Casino Name": "Horseshoe Las Vegas (formerly Bally’s)",
+    "Open Date": "1986-11-05",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3645 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Modern, vintage Vegas gambling focus.",
+    "Notable Events": "Opened as Bally’s after MGM fire; rebranded Horseshoe in 2022."
+  },
+  {
+    "Casino Name": "International/Hilton/Westgate",
+    "Open Date": "1969-07-02",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3000 Paradise Rd, Winchester, NV 89109",
+    "Location Category": "Off-Strip",
+    "Ownership": "Kirk Kerkorian, Hilton, now Westgate Resorts",
+    "Description/Theme": "Modern high-rise luxury, no single theme.",
+    "Notable Events": "Debuted as world's biggest hotel; Elvis residency 1969; Hilton then Westgate."
+  },
+  {
+    "Casino Name": "Aria Resort & Casino",
+    "Open Date": "2009-12-16",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3730 Las Vegas Blvd S, Paradise, NV 89158",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts + Infinity World",
+    "Description/Theme": "Ultra-modern, integrated resort.",
+    "Notable Events": "CityCenter centerpiece; LEED Gold sustainability."
+  },
+  {
+    "Casino Name": "Bellagio",
+    "Open Date": "1998-10-15",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3600 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Blackstone Group (owner), MGM Resorts (operator)",
+    "Description/Theme": "Italian Bellagio village; elegance and fountains.",
+    "Notable Events": "Dancing water fountains; world-class poker (Bobby's Room)."
+  },
+  {
+    "Casino Name": "Wynn Las Vegas",
+    "Open Date": "2005-04-28",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3131 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Wynn Resorts",
+    "Description/Theme": "Modern luxury, gardens, waterfall.",
+    "Notable Events": "Steve Wynn’s flagship; Lake of Dreams."
+  },
+  {
+    "Casino Name": "Encore Las Vegas",
+    "Open Date": "2008-12-22",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3121 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Wynn Resorts",
+    "Description/Theme": "All-suite tower, contemporary.",
+    "Notable Events": "Sister to Wynn, Forbes 5-Star."
+  },
+  {
+    "Casino Name": "Resorts World Las Vegas",
+    "Open Date": "2021-06-24",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3000 Las Vegas Blvd S, Winchester, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Genting Group (Malaysia)",
+    "Description/Theme": "Asian-inspired megaresort.",
+    "Notable Events": "Built on former Stardust site; three Hilton-branded hotels, huge LED globe."
+  },
+  {
+    "Casino Name": "The Mirage",
+    "Open Date": "1989-11-22",
+    "Close Date": "2023-12",
+    "Status": "Renovation (becoming Hard Rock)",
+    "Address": "3400 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Hard Rock Intl. (from 2022), MGM Resorts (prior)",
+    "Description/Theme": "Polynesian tropical, volcano.",
+    "Notable Events": "First modern megaresort; closed 2023 for Hard Rock guitar hotel conversion."
+  }
+][
+  {
+    "Casino Name": "Treasure Island (TI)",
+    "Open Date": "1993-10-26",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3300 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Phil Ruffin (since 2009; formerly MGM Mirage)",
+    "Description/Theme": "Pirate theme; later rebranded as TI with modern focus.",
+    "Notable Events": "Pirate battle show until 2013; family-friendly, now more adult-oriented."
+  },
+  {
+    "Casino Name": "Monte Carlo / Park MGM",
+    "Open Date": "1996-06-21",
+    "Close Date": null,
+    "Status": "Operating (rebranded 2018)",
+    "Address": "3770 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts (50% with BREIT/Blackstone)",
+    "Description/Theme": "Monte Carlo: European elegance; Park MGM: boutique modern.",
+    "Notable Events": "Opened as Monte Carlo in 1996; complete renovation to Park MGM in 2018, NoMad tower addition."
+  },
+  {
+    "Casino Name": "Luxor",
+    "Open Date": "1993-10-15",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3900 Las Vegas Blvd S, Paradise, NV 89119",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts",
+    "Description/Theme": "Ancient Egyptian pyramid, Sphinx.",
+    "Notable Events": "World's brightest beam of light; inclinators (diagonal elevators); major renovations and some de-theming."
+  },
+  {
+    "Casino Name": "Excalibur",
+    "Open Date": "1990-06-19",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3850 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts",
+    "Description/Theme": "King Arthur’s Camelot/medieval castle.",
+    "Notable Events": "Largest hotel in the world on opening; family-oriented, with joust tournaments and arcade."
+  },
+  {
+    "Casino Name": "Mandalay Bay",
+    "Open Date": "1999-03-02",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3950 Las Vegas Blvd S, Paradise, NV 89119",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts (via VICI lease)",
+    "Description/Theme": "South Seas tropical/beach resort.",
+    "Notable Events": "Wave pool and beach, Shark Reef aquarium, major events/conventions."
+  },
+  {
+    "Casino Name": "MGM Grand (new)",
+    "Open Date": "1993-12-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3799 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "MGM Resorts",
+    "Description/Theme": "Hollywood/Wizard of Oz theme at launch, now modern luxury.",
+    "Notable Events": "Largest single hotel in Las Vegas (over 5,000 rooms); site of old Marina Hotel."
+  },
+  {
+    "Casino Name": "The STRAT (Stratosphere)",
+    "Open Date": "1996-04-30",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+    "Location Category": "Strip (North)",
+    "Ownership": "Golden Entertainment",
+    "Description/Theme": "Observation tower, thrill rides.",
+    "Notable Events": "Tallest observation tower in the US; home to SkyJump, X-Scream, and other rides; rebranded to 'The STRAT' in 2020."
+  },
+  {
+    "Casino Name": "Fontainebleau Las Vegas",
+    "Open Date": "2023-12-13",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2777 S Las Vegas Blvd, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Fontainebleau Development & Koch Industries",
+    "Description/Theme": "Ultra-modern luxury, blue glass tower.",
+    "Notable Events": "Project began 2007, stalled for years, finally opened 2023."
+  },
+  {
+    "Casino Name": "Circa Resort & Casino",
+    "Open Date": "2020-10-28",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "8 Fremont Street, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Derek Stevens (Circa Resorts)",
+    "Description/Theme": "Retro Art Deco/modern sports.",
+    "Notable Events": "First new-build downtown in 40 years; world’s largest sportsbook, rooftop pool amphitheater (Stadium Swim); adults-only."
+  },
+  {
+    "Casino Name": "Trump International (Hotel only)",
+    "Open Date": "2008-03-31",
+    "Close Date": null,
+    "Status": "Operating (no casino)",
+    "Address": "2000 Fashion Show Dr, Las Vegas, NV 89109",
+    "Location Category": "Off-Strip",
+    "Ownership": "Trump Organization",
+    "Description/Theme": "Luxury condo hotel, gold-glass.",
+    "Notable Events": "No gaming license; one of few Strip-adjacent hotels without a casino."
+  }
+]
+[
+  {
+    "Casino Name": "Palace Station",
+    "Open Date": "1976-07-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2411 W Sahara Ave, Las Vegas, NV 89102",
+    "Location Category": "Off-Strip",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Railroad/Western theme, locals favorite.",
+    "Notable Events": "Original 'The Casino' (1976), became Palace Station; infamous for O.J. Simpson robbery incident."
+  },
+  {
+    "Casino Name": "Santa Fe Station",
+    "Open Date": "1991-02-14",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4949 N Rancho Dr, Las Vegas, NV 89130",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Southwestern/modern, locals casino.",
+    "Notable Events": "Acquired by Station Casinos 2000; added movie theaters and ice rink."
+  },
+  {
+    "Casino Name": "Texas Station",
+    "Open Date": "1995-07-12",
+    "Close Date": "2020-03-17",
+    "Status": "Closed/Demolished",
+    "Address": "2101 Texas Star Ln, North Las Vegas, NV 89032",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Texas western, locals focus.",
+    "Notable Events": "Closed 2020, demolished 2022 after pandemic shutdown."
+  },
+  {
+    "Casino Name": "Fiesta Rancho",
+    "Open Date": "1994-12-14",
+    "Close Date": "2020-03-17",
+    "Status": "Closed/Demolished",
+    "Address": "2400 N Rancho Dr, North Las Vegas, NV 89032",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Station Casinos (acquired 2001)",
+    "Description/Theme": "Mexican fiesta theme.",
+    "Notable Events": "Closed during 2020 pandemic, never reopened; demolished 2022."
+  },
+  {
+    "Casino Name": "Fiesta Henderson",
+    "Open Date": "1998-08-01",
+    "Close Date": "2020-03-17",
+    "Status": "Closed/Demolished",
+    "Address": "777 W Lake Mead Pkwy, Henderson, NV 89015",
+    "Location Category": "Henderson",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Mexican fiesta, locals oriented.",
+    "Notable Events": "Closed during 2020 pandemic, demolished 2022."
+  },
+  {
+    "Casino Name": "Sam's Town Hotel & Gambling Hall",
+    "Open Date": "1979-04-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "5111 Boulder Hwy, Las Vegas, NV 89122",
+    "Location Category": "Off-Strip",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Old West town theme, large atrium.",
+    "Notable Events": "One of the first true locals casinos, continues as Boyd flagship."
+  },
+  {
+    "Casino Name": "California Hotel & Casino",
+    "Open Date": "1975-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "12 E Ogden Ave, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Hawaiian, island hospitality.",
+    "Notable Events": "Popular with Hawaiian tourists; 'the Cal' is a locals favorite for food and craps."
+  },
+  {
+    "Casino Name": "Fremont Hotel & Casino",
+    "Open Date": "1956-05-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "200 Fremont St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Classic downtown Vegas.",
+    "Notable Events": "Designed by Wayne McAllister; hosted Wayne Newton’s early gigs."
+  },
+  {
+    "Casino Name": "Plaza Hotel & Casino (Union Plaza)",
+    "Open Date": "1971-07-02",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "1 Main St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Tamares Group",
+    "Description/Theme": "Train station motif, classic downtown.",
+    "Notable Events": "Built on site of original Union Pacific depot; used as Biff’s in Back to the Future II."
+  },
+  {
+    "Casino Name": "Jerry’s Nugget",
+    "Open Date": "1964-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "1821 Las Vegas Blvd N, North Las Vegas, NV 89030",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Stamis family",
+    "Description/Theme": "Classic locals casino.",
+    "Notable Events": "Known for its value and 24/7 restaurant."
+  },
+  {
+    "Casino Name": "Silver Nugget",
+    "Open Date": "1964-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2140 Las Vegas Blvd N, North Las Vegas, NV 89030",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Silver Nugget Gaming",
+    "Description/Theme": "Classic North Las Vegas joint.",
+    "Notable Events": "Bowling, small locals casino."
+  },
+  {
+    "Casino Name": "Lucky Club (Ojos Locos Sports Cantina y Casino)",
+    "Open Date": "1998-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3227 Civic Center Dr, North Las Vegas, NV 89030",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Fifth Street Gaming",
+    "Description/Theme": "Mexican sports bar and casino.",
+    "Notable Events": "Rebranded as Ojos Locos in 2023; heavy focus on Hispanic market."
+  },
+  {
+    "Casino Name": "Railroad Pass Hotel & Casino",
+    "Open Date": "1931-08-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2800 S Boulder Hwy, Henderson, NV 89002",
+    "Location Category": "Boulder City Area",
+    "Ownership": "Joseph DeSimone, Nevada State Railroad Museum",
+    "Description/Theme": "Art Deco, railroad traveler’s stop.",
+    "Notable Events": "Oldest continuously licensed casino in Nevada (opened just after gaming legalized in 1931)."
+  },
+  {
+    "Casino Name": "Joker’s Wild Casino",
+    "Open Date": "1993-04-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "920 N Boulder Hwy, Henderson, NV 89011",
+    "Location Category": "Henderson",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Locals casino, no major theme.",
+    "Notable Events": "Formerly the Cattle Baron Casino."
+  },
+  {
+    "Casino Name": "Klondike Sunset Casino",
+    "Open Date": "1999-08-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "444 W Sunset Rd, Henderson, NV 89011",
+    "Location Category": "Henderson",
+    "Ownership": "Klondike Properties",
+    "Description/Theme": "Neighborhood/locals, classic casino.",
+    "Notable Events": "Shares branding with the original Klondike (Strip)."
+  },
+  {
+    "Casino Name": "Club Fortune Casino",
+    "Open Date": "2003-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "725 S Racetrack Rd, Henderson, NV 89015",
+    "Location Category": "Henderson",
+    "Ownership": "Independent",
+    "Description/Theme": "Neighborhood casino.",
+    "Notable Events": "Locals’ favorite; off the tourist radar."
+  },
+  {
+    "Casino Name": "Skyline Casino",
+    "Open Date": "1964-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "1741 N Boulder Hwy, Henderson, NV 89011",
+    "Location Category": "Henderson",
+    "Ownership": "Independent",
+    "Description/Theme": "Classic roadside casino.",
+    "Notable Events": "Affordable table games and a retro bar."
+  },
+  {
+    "Casino Name": "Poker Palace",
+    "Open Date": "1991-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2757 Las Vegas Blvd N, North Las Vegas, NV 89030",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Independent",
+    "Description/Theme": "Locals casino, poker rooms.",
+    "Notable Events": "Family-run since opening, known for its value."
+  }
+]
+[
+  {
+    "Casino Name": "Sunset Station",
+    "Open Date": "1997-06-10",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "1301 W Sunset Rd, Henderson, NV 89014",
+    "Location Category": "Henderson",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Spanish/Mediterranean theme, locals casino.",
+    "Notable Events": "Features 70-lane bowling center, large multiplex theater."
+  },
+  {
+    "Casino Name": "Green Valley Ranch Resort",
+    "Open Date": "2001-12-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2300 Paseo Verde Pkwy, Henderson, NV 89052",
+    "Location Category": "Henderson",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Tuscan/Mediterranean, upscale locals.",
+    "Notable Events": "Site of the Discovery Channel’s 'American Casino' reality show."
+  },
+  {
+    "Casino Name": "Red Rock Casino, Resort & Spa",
+    "Open Date": "2006-04-18",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "11011 W Charleston Blvd, Las Vegas, NV 89135",
+    "Location Category": "Summerlin/West Las Vegas",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Modern, desert-inspired luxury.",
+    "Notable Events": "Flagship for affluent Summerlin; highly rated resort and pool complex."
+  },
+  {
+    "Casino Name": "South Point Hotel Casino & Spa",
+    "Open Date": "2005-12-22",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "9777 Las Vegas Blvd S, Las Vegas, NV 89183",
+    "Location Category": "South Strip",
+    "Ownership": "Michael Gaughan",
+    "Description/Theme": "Modern equestrian/rodeo focus, off-strip.",
+    "Notable Events": "Hosts major rodeos, bowling events, and equestrian competitions."
+  },
+  {
+    "Casino Name": "The Orleans Hotel & Casino",
+    "Open Date": "1996-12-28",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4500 W Tropicana Ave, Las Vegas, NV 89103",
+    "Location Category": "Off-Strip",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "New Orleans/Mardi Gras theme.",
+    "Notable Events": "Popular with locals for big bingo, theater, events."
+  },
+  {
+    "Casino Name": "Gold Coast Hotel & Casino",
+    "Open Date": "1986-12-21",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4000 W Flamingo Rd, Las Vegas, NV 89103",
+    "Location Category": "Off-Strip",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "No major theme; value-oriented locals casino.",
+    "Notable Events": "Next to the Rio; long poker and bowling tradition."
+  },
+  {
+    "Casino Name": "Rampart Casino at the Resort at Summerlin",
+    "Open Date": "2002-11-11",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "221 N Rampart Blvd, Las Vegas, NV 89145",
+    "Location Category": "Summerlin/West Las Vegas",
+    "Ownership": "Hoteles Dinamicos, leased by JW Marriott",
+    "Description/Theme": "Luxury, Mediterranean.",
+    "Notable Events": "Originally Regent Las Vegas; frequent ownership changes."
+  },
+  {
+    "Casino Name": "The M Resort Spa Casino",
+    "Open Date": "2009-03-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "12300 Las Vegas Blvd S, Henderson, NV 89044",
+    "Location Category": "South Las Vegas",
+    "Ownership": "Penn Entertainment",
+    "Description/Theme": "Ultra-modern, glass/steel architecture.",
+    "Notable Events": "First major resort for residents south of the city, strong food reputation."
+  },
+  {
+    "Casino Name": "Cannery Casino and Hotel",
+    "Open Date": "2003-01-03",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "2121 E Craig Rd, North Las Vegas, NV 89030",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Factory/industrial theming, locals.",
+    "Notable Events": "Live music venue, popular North Las Vegas entertainment spot."
+  },
+  {
+    "Casino Name": "Eastside Cannery Casino and Hotel",
+    "Open Date": "2008-08-28",
+    "Close Date": "2020-03-17",
+    "Status": "Closed (not reopened post-pandemic)",
+    "Address": "5255 Boulder Hwy, Las Vegas, NV 89122",
+    "Location Category": "East Las Vegas",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Factory/industrial design, mid-market locals.",
+    "Notable Events": "Remains closed as of 2024 after pandemic shutdown."
+  },
+  {
+    "Casino Name": "Wildfire Casino (multiple locations)",
+    "Open Date": "1996-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "Multiple (notably 2700 E Fremont St, plus others)",
+    "Location Category": "Various: Las Vegas, Henderson, Boulder Hwy",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Neighborhood mini-casinos.",
+    "Notable Events": "Dozen+ locations; include Boulder Highway, Rancho, Anthem, Fremont, Valley View, Lake Mead, Decatur, and more."
+  },
+  {
+    "Casino Name": "Ellis Island Hotel, Casino & Brewery",
+    "Open Date": "1968-08-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4178 Koval Ln, Las Vegas, NV 89109",
+    "Location Category": "Off-Strip",
+    "Ownership": "Ellis family",
+    "Description/Theme": "Brewpub, classic Vegas value.",
+    "Notable Events": "Famously cheap steak specials, karaoke, microbrewery."
+  },
+  {
+    "Casino Name": "Silver Sevens Hotel & Casino (formerly Continental, Terrible’s)",
+    "Open Date": "1981-02-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4100 Paradise Rd, Las Vegas, NV 89169",
+    "Location Category": "Off-Strip",
+    "Ownership": "Affinity Gaming",
+    "Description/Theme": "Affordable, neighborhood-oriented.",
+    "Notable Events": "Multiple name changes; major 2013 renovation to Silver Sevens."
+  },
+  {
+    "Casino Name": "Westgate Flamingo Bay Resort",
+    "Open Date": "1997-03-14",
+    "Close Date": null,
+    "Status": "Operating (timeshare only, no casino)",
+    "Address": "5625 W Flamingo Rd, Las Vegas, NV 89103",
+    "Location Category": "West Las Vegas",
+    "Ownership": "Westgate Resorts",
+    "Description/Theme": "Timeshare, resort suites.",
+    "Notable Events": "Included for completeness; no full casino on premises."
+  },
+  {
+    "Casino Name": "Gold Spike",
+    "Open Date": "1976-01-01",
+    "Close Date": "2013-04-14",
+    "Status": "Closed/Converted",
+    "Address": "217 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "Various, last Tony Hsieh/DTP Companies",
+    "Description/Theme": "Classic downtown, later boutique.",
+    "Notable Events": "Closed 2013; now operates as a boutique hotel, bar, and co-working space (no casino)."
+  },
+  {
+    "Casino Name": "Lady Luck (now Downtown Grand)",
+    "Open Date": "1964-07-01",
+    "Close Date": "2006-02-11",
+    "Status": "Renamed/Reopened as Downtown Grand",
+    "Address": "206 N 3rd St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "CIM Group, Fifth Street Gaming",
+    "Description/Theme": "Classic downtown, casino hotel.",
+    "Notable Events": "Closed 2006, extensively remodeled, reopened as Downtown Grand in 2013."
+  },
+  {
+    "Casino Name": "Downtown Grand",
+    "Open Date": "2013-10-27",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "206 N 3rd St, Las Vegas, NV 89101",
+    "Location Category": "Downtown",
+    "Ownership": "CIM Group",
+    "Description/Theme": "Boutique, urban modern.",
+    "Notable Events": "Revival of the former Lady Luck, features rooftop pool (Citrus Grand Pool Deck)."
+  }
+]
+[
+  {
+    "Casino Name": "Castaways (previously Showboat)",
+    "Open Date": "1954-09-03",
+    "Close Date": "2004-01-29",
+    "Status": "Closed/Demolished",
+    "Address": "2800 E Fremont St, Las Vegas, NV 89104",
+    "Location Category": "Off-Strip",
+    "Ownership": "Harrah’s, Station Casinos",
+    "Description/Theme": "Riverboat (Showboat), then tropical (Castaways).",
+    "Notable Events": "Famous bowling alley; demolished after 2004 closure."
+  },
+  {
+    "Casino Name": "Royal Inn / Royal Americana / Royal Hotel",
+    "Open Date": "1970-03-01",
+    "Close Date": "2014-01-03",
+    "Status": "Closed/Demolished",
+    "Address": "99 Convention Center Dr, Las Vegas, NV 89109",
+    "Location Category": "Off-Strip",
+    "Ownership": "Various",
+    "Description/Theme": "Varied; traditional mid-century.",
+    "Notable Events": "Frequent name/ownership changes; demolished 2017."
+  },
+  {
+    "Casino Name": "The Western Hotel & Casino",
+    "Open Date": "1970-01-01",
+    "Close Date": "2012-01-16",
+    "Status": "Closed",
+    "Address": "899 Fremont St, Las Vegas, NV 89101",
+    "Location Category": "Downtown (East Fremont)",
+    "Ownership": "Siver State Gaming",
+    "Description/Theme": "Old West, value casino.",
+    "Notable Events": "Once the cheapest tables downtown; shuttered 2012, now part of downtown development."
+  },
+  {
+    "Casino Name": "Nevada Palace",
+    "Open Date": "1979-01-01",
+    "Close Date": "2008-02-29",
+    "Status": "Renamed/Demolished",
+    "Address": "5255 Boulder Hwy, Las Vegas, NV 89122",
+    "Location Category": "East Las Vegas",
+    "Ownership": "Boyd Gaming (last)",
+    "Description/Theme": "Classic Boulder Highway casino.",
+    "Notable Events": "Demolished for Eastside Cannery."
+  },
+  {
+    "Casino Name": "Marina Hotel & Casino",
+    "Open Date": "1975-12-01",
+    "Close Date": "1990-11-30",
+    "Status": "Renamed/Demolished",
+    "Address": "3799 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Kerkorian, then MGM",
+    "Description/Theme": "Nautical, modernist.",
+    "Notable Events": "Became base for MGM Grand (current), lobby structure remains."
+  },
+  {
+    "Casino Name": "Boardwalk Hotel and Casino",
+    "Open Date": "1977-09-01",
+    "Close Date": "2006-01-09",
+    "Status": "Closed/Demolished",
+    "Address": "3750 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "MGM Mirage",
+    "Description/Theme": "Coney Island/Boardwalk theme.",
+    "Notable Events": "Famous roller coaster marquee; demolished for CityCenter/Aria."
+  },
+  {
+    "Casino Name": "Klondike Inn",
+    "Open Date": "1962-01-01",
+    "Close Date": "2006-06-30",
+    "Status": "Closed/Demolished",
+    "Address": "5195 S Las Vegas Blvd, Las Vegas, NV 89119",
+    "Location Category": "Strip (South)",
+    "Ownership": "John Woodrum",
+    "Description/Theme": "Motel/casino, classic neon.",
+    "Notable Events": "Last Strip casino before entering from south, demoed for Welcome to LV sign park."
+  },
+  {
+    "Casino Name": "Castaways (original, not Showboat)",
+    "Open Date": "1963-01-01",
+    "Close Date": "1987-07-01",
+    "Status": "Closed/Demolished",
+    "Address": "2955 Las Vegas Blvd S, Las Vegas, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Howard Hughes (final)",
+    "Description/Theme": "Tiki/Polynesian, later Moroccan.",
+    "Notable Events": "Howard Hughes owned; demoed for The Mirage."
+  },
+  {
+    "Casino Name": "Holiday Casino (now Harrah’s)",
+    "Open Date": "1973-01-01",
+    "Close Date": "1992-07-01",
+    "Status": "Renamed/Operating",
+    "Address": "3475 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Harrah's Entertainment",
+    "Description/Theme": "Riverboat steamboat theme.",
+    "Notable Events": "Renamed Harrah’s in 1992, major renovations."
+  },
+  {
+    "Casino Name": "Harrah’s Las Vegas",
+    "Open Date": "1992-07-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3475 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Carnival, Mardi Gras theme.",
+    "Notable Events": "Famous for celebrity tribute shows and events."
+  },
+  {
+    "Casino Name": "Imperial Palace (now The Linq)",
+    "Open Date": "1979-11-01",
+    "Close Date": "2012-12-18",
+    "Status": "Renamed",
+    "Address": "3535 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Ralph Engelstad, then Caesars",
+    "Description/Theme": "Asian, imperial China.",
+    "Notable Events": "Notorious for car collection and unique history; became The Quad, then The Linq."
+  },
+  {
+    "Casino Name": "The Linq",
+    "Open Date": "2014-10-30",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3535 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Modern, social, urban.",
+    "Notable Events": "Renamed from Imperial Palace via 'The Quad'; home to the High Roller observation wheel."
+  },
+  {
+    "Casino Name": "The Quad",
+    "Open Date": "2012-12-21",
+    "Close Date": "2014-10-29",
+    "Status": "Renamed",
+    "Address": "3535 Las Vegas Blvd S, Paradise, NV 89109",
+    "Location Category": "Strip",
+    "Ownership": "Caesars Entertainment",
+    "Description/Theme": "Temporary rebranding, generic theme.",
+    "Notable Events": "Interim name between Imperial Palace and The Linq."
+  }
+]
+[
+  {
+    "Casino Name": "Arizona Charlie’s Boulder",
+    "Open Date": "2000-05-23",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "4575 Boulder Hwy, Las Vegas, NV 89121",
+    "Location Category": "Boulder Highway",
+    "Ownership": "Golden Entertainment",
+    "Description/Theme": "Value-oriented, Western local casino.",
+    "Notable Events": "Sister property to Arizona Charlie's Decatur; built for value-focused locals market."
+  },
+  {
+    "Casino Name": "Arizona Charlie’s Decatur",
+    "Open Date": "1988-04-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "740 S Decatur Blvd, Las Vegas, NV 89107",
+    "Location Category": "West Las Vegas",
+    "Ownership": "Golden Entertainment",
+    "Description/Theme": "Western local casino.",
+    "Notable Events": "Popular for bingo; part of Golden Entertainment chain."
+  },
+  {
+    "Casino Name": "Sam’s Town Gambling Hall",
+    "Open Date": "1979-04-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "5111 Boulder Hwy, Las Vegas, NV 89122",
+    "Location Category": "Boulder Highway",
+    "Ownership": "Boyd Gaming",
+    "Description/Theme": "Old West, indoor atrium.",
+    "Notable Events": "Remains an anchor of the Boulder Strip casino corridor."
+  },
+  {
+    "Casino Name": "Longhorn Casino & Hotel",
+    "Open Date": "1981-01-01",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "5288 Boulder Hwy, Las Vegas, NV 89122",
+    "Location Category": "Boulder Highway",
+    "Ownership": "Independent",
+    "Description/Theme": "Classic locals’ casino/motel.",
+    "Notable Events": "Known for value meals and no-frills atmosphere."
+  },
+  {
+    "Casino Name": "Emerald Island Casino",
+    "Open Date": "2003-06-11",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "120 Market St, Henderson, NV 89015",
+    "Location Category": "Henderson",
+    "Ownership": "Independent",
+    "Description/Theme": "‘Locals’ favorite’, small casino.",
+    "Notable Events": "Billed as the ‘jewel of Henderson’, Irish pub and slot parlor."
+  },
+  {
+    "Casino Name": "Henderson Casino (The Pass Casino)",
+    "Open Date": "1961-01-01",
+    "Close Date": null,
+    "Status": "Operating (as The Pass Casino)",
+    "Address": "140 S Water St, Henderson, NV 89015",
+    "Location Category": "Henderson",
+    "Ownership": "Joe DeSimone",
+    "Description/Theme": "Downtown Henderson local joint.",
+    "Notable Events": "Formerly Eldorado Casino; rebranded The Pass Casino in 2021."
+  },
+  {
+    "Casino Name": "Silverton Casino Lodge",
+    "Open Date": "1994-05-20",
+    "Close Date": null,
+    "Status": "Operating",
+    "Address": "3333 Blue Diamond Rd, Las Vegas, NV 89139",
+    "Location Category": "Southwest Las Vegas",
+    "Ownership": "Ed Roski Jr.",
+    "Description/Theme": "Rustic lodge/fishing theme.",
+    "Notable Events": "Famed for its aquarium with mermaid shows, Bass Pro Shop attached."
+  },
+  {
+    "Casino Name": "Fiesta Henderson (formerly The Reserve)",
+    "Open Date": "1998-02-10",
+    "Close Date": "2020-03-17",
+    "Status": "Closed/Demolished",
+    "Address": "777 W Lake Mead Pkwy, Henderson, NV 89015",
+    "Location Category": "Henderson",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Fiesta/Mexican theme, locals focus.",
+    "Notable Events": "Closed during COVID, demolished 2022."
+  },
+  {
+    "Casino Name": "Texas Station Gambling Hall & Hotel",
+    "Open Date": "1995-07-12",
+    "Close Date": "2020-03-17",
+    "Status": "Closed/Demolished",
+    "Address": "2101 Texas Star Ln, North Las Vegas, NV 89032",
+    "Location Category": "North Las Vegas",
+    "Ownership": "Station Casinos",
+    "Description/Theme": "Texas western, value locals.",
+    "Notable Events": "Closed during COVID, demolished 2022."
+  },
+  {
+    "Casino Name": "Moulin Rouge Hotel",
+    "Open Date": "1955-05-24",
+    "Close Date": "1955-11-25",
+    "Status": "Closed/Demolished",
+    "Address": "900 W Bonanza Rd, Las Vegas, NV 89106",
+    "Location Category": "West Las Vegas",
+    "Ownership": "Various",
+    "Description/Theme": "Parisian cabaret, civil rights landmark.",
+    "Notable Events": "First integrated casino in Vegas, closed after six months; site remains historic."
+  },
+  {
+    "Casino Name": "Nevada Landing Hotel and Casino",
+    "Open Date": "1989-07-06",
+    "Close Date": "2007-03-20",
+    "Status": "Closed/Demolished",
+    "Address": "I-15 at Jean, Jean, NV",
+    "Location Category": "Jean/Primm Area (Clark County)",
+    "Ownership": "MGM Mirage",
+    "Description/Theme": "Riverboat/steamboat.",
+    "Notable Events": "Sister to Gold Strike Jean, demoed for industrial park."
+  },
+  {
+    "Casino Name": "Gold Strike Hotel and Gambling Hall (Jean)",
+    "Open Date": "1987-12-01",
+    "Close Date": "2021-02-01",
+    "Status": "Renamed/Operating as Terrible’s Hotel & Casino",
+    "Address": "I-15 at Jean, Jean, NV",
+    "Location Category": "Jean/Primm Area (Clark County)",
+    "Ownership": "Herbst Gaming (Terrible’s)",
+    "Description/Theme": "Highway stopover.",
+    "Notable Events": "Now Terrible's; last casino before California border when Primm casinos closed temporarily."
+  }
+]
+[
+  {
+    "name": "Aladdin Hotel & Casino",
+    "address": "3667 Las Vegas Blvd S, Paradise, NV",
+    "opened": "April 1966",
+    "closed": "November 25, 1997",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Renamed from Tally Ho in 1966; closed in 1997 and imploded in 1998 [oai_citation:82‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=The%20Aladdin%20Hotel%2C%20opened%20in,new%20project) [oai_citation:83‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=In%202000%2C%20a%20new%20Aladdin,still%20occupies%20the%20site%20today). New Aladdin/Planet Hollywood built on site."
+  },
+  {
+    "name": "Barbary Coast / Bill’s Gamblin’ Hall",
+    "address": "3595 Las Vegas Blvd S, Paradise, NV",
+    "opened": "March 2, 1979",
+    "closed": "February 4, 2013",
+    "license_status": "Surrendered (rebranded as The Cromwell)",
+    "notes": "Operated as Barbary Coast (1979–2007) [oai_citation:84‡casino.fandom.com](https://casino.fandom.com/wiki/Barbary_Coast_Hotel_and_Casino#:~:text=Fandom%20casino,188), then Bill’s Gamblin’ Hall (2007–2013). Closed for renovation into Cromwell [oai_citation:85‡wizardofvegas.com](https://wizardofvegas.com/articles/cromwell-las-vegas/#:~:text=Cromwell%20Las%20Vegas%20,be%20Gansevoort%2C%20but%20a)."
+  },
+  {
+    "name": "Boardwalk Hotel & Casino",
+    "address": "3750 Las Vegas Blvd S, Paradise, NV",
+    "opened": "1968",
+    "closed": "January 9, 2006",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened as a Holiday Inn (1960s), became Boardwalk in 1989 [oai_citation:86‡historiclasvegasproject.com](https://historiclasvegasproject.com/Boardwalk-Hotel-and-Casino.html#:~:text=The%20Holiday%20Inn%20opened%20in,1966). Closed 2006 and imploded later that year [oai_citation:87‡historiclasvegasproject.com](https://historiclasvegasproject.com/Boardwalk-Hotel-and-Casino.html#:~:text=Boardwalk%20Hotel%20and%20Casino%20closed,on%20January%209%2C%202006); now part of CityCenter/Aria."
+  },
+  {
+    "name": "Bourbon Street Hotel & Casino",
+    "address": "120 E Flamingo Rd, Paradise, NV",
+    "opened": "1985",
+    "closed": "October 18, 2005",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Initially the ill-fated Shenandoah project (1980). Opened as Bourbon Street in 1985 [oai_citation:88‡historiclasvegasproject.com](https://historiclasvegasproject.com/Bourbon-Street-Hotel-and-Casino.html#:~:text=Shenandoah%20Hotel%20opened%20in%201980). Closed in 2005 [oai_citation:89‡historiclasvegasproject.com](https://historiclasvegasproject.com/Bourbon-Street-Hotel-and-Casino.html#:~:text=Closed%20on%20October%2018%2C%202005); imploded in January 2006 [oai_citation:90‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Despite%20their%20best%20efforts%2C%20the,serves%20as%20a%20parking%20lot)."
+  },
+  {
+    "name": "California Club",
+    "address": "101 E Fremont St, Las Vegas, NV",
+    "opened": "1958",
+    "closed": "1973",
+    "license_status": "Surrendered (merged into Golden Nugget)",
+    "notes": "Small downtown casino (no hotel) catering to locals [oai_citation:91‡en.wikipedia.org](https://en.wikipedia.org/wiki/California_Club_(casino)#:~:text=Location%20Las%20Vegas%20%2C%20,115.14472) [oai_citation:92‡en.wikipedia.org](https://en.wikipedia.org/wiki/California_Club_(casino)#:~:text=The%20California%20Club%20operated%20from,after%20the%20purchase%20by%20Wynn). Sold to Steve Wynn in 1973 and incorporated into the Golden Nugget."
+  },
+  {
+    "name": "Castaways Hotel & Casino (Showboat)",
+    "address": "2800 E Fremont St, Las Vegas, NV",
+    "opened": "1954",
+    "closed": "January 29, 2004",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened as the Showboat (1954), a locals casino/bowling center. Renamed Castaways in 2000, closed in 2004. Imploded on January 11, 2006 [oai_citation:93‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Originally%20opened%20in%201954%20as,homage%20to%20the%20historic%20property)."
+  },
+  {
+    "name": "Castaways Casino (Strip)",
+    "address": "3333 Las Vegas Blvd S, Paradise, NV",
+    "opened": "1957",
+    "closed": "July 20, 1987",
+    "license_status": "Surrendered (replaced by The Mirage)",
+    "notes": "Formerly Sans Souci Auto Court (opened 1950s). Became the Castaways on the Strip; closed July 20, 1987 [oai_citation:94‡en.wikipedia.org](https://en.wikipedia.org/wiki/Castaways_(casino)#:~:text=match%20at%20L187%20property%20with,Boulder%20Highway%2C%20starting%20in%202001). Demolished for The Mirage opening in 1989."
+  },
+  {
+    "name": "Clarion Hotel & Casino (Greek Isles)",
+    "address": "305 Convention Center Dr, Winchester, NV",
+    "opened": "1970",
+    "closed": "February 10, 2015",
+    "license_status": "Surrendered (property imploded)",
+    "notes": "Opened 1970 as Royal Inn [oai_citation:95‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Courtesy%3A%20NBC%20News). Later names included Paddlewheel, Debbie Reynolds Hollywood, and Greek Isles. Last operated as Clarion (2009–2015); imploded in 2015 [oai_citation:96‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Courtesy%3A%20NBC%20News)."
+  },
+  {
+    "name": "Cotton Club",
+    "address": "500 Jackson Ave, Las Vegas, NV",
+    "opened": "1944",
+    "closed": "1957",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "Historic Westside casino for African Americans [oai_citation:97‡ccgtcc-ccn.com](https://www.ccgtcc-ccn.com/Westside.pdf#:~:text=The%20Cotton%20Club%20opened%20as,wasn%E2%80%99t%20long%20before%20a%20blackjack) [oai_citation:98‡ccgtcc-ccn.com](https://www.ccgtcc-ccn.com/Westside.pdf#:~:text=yellow%20pages%20ad%20is%20a,Clarence%20Ray%20deals%20Blackjack%20at). Opened by Moe Taub in 1944; offered slots, keno, and later table games. Closed by the late 1950s as Westside gaming declined."
+  },
+  {
+    "name": "El Morocco Club",
+    "address": "1322 North H St, Las Vegas, NV",
+    "opened": "1940s",
+    "closed": "1950s",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "An interracial Westside nightclub & casino active in the mid-20th century [oai_citation:99‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,El%20Rancho%20Vegas). Known for jazz and gambling under one roof. Closed by the end of the 1950s; building later repurposed."
+  },
+  {
+    "name": "Fiesta Henderson (The Reserve)",
+    "address": "777 W Lake Mead Pkwy, Henderson, NV",
+    "opened": "January 1998",
+    "closed": "March 2020",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened as The Reserve in 1998, renamed Fiesta Henderson in 2001 [oai_citation:100‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Fitzgeralds%20Casino%20Hotel%20Las%20Vegas). Closed permanently in 2020 due to COVID-19 impacts; Station Casinos demolished the property in 2022 [oai_citation:101‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Fitzgeralds%20Casino%20Hotel%20Las%20Vegas)."
+  },
+  {
+    "name": "Fiesta Rancho",
+    "address": "2400 N Rancho Dr, North Las Vegas, NV",
+    "opened": "1994",
+    "closed": "March 2020",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened as Fiesta Rancho (Texas Station’s sister property) in 1994. Never reopened after the 2020 pandemic shutdown. Station Casinos imploded it in 2022 [oai_citation:102‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Vegas); license relinquished."
+  },
+  {
+    "name": "Fitzgeralds Casino Hotel",
+    "address": "301 Fremont St, Las Vegas, NV",
+    "opened": "1980",
+    "closed": "November 2012",
+    "license_status": "Active (rebranded as The D Las Vegas)",
+    "notes": "Opened in 1980 (previously the Sundance). Operated as Fitzgeralds from 1987 to 2012. After a brief closure/renovation in late 2012, it re-opened as The D Las Vegas [oai_citation:103‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Fitzgeralds%20Casino%20Hotel%20Las%20Vegas) under the same license."
+  },
+  {
+    "name": "Gold Spike Casino",
+    "address": "400 E Ogden Ave, Las Vegas, NV",
+    "opened": "1976",
+    "closed": "April 14, 2013",
+    "license_status": "Surrendered (now non-gaming business)",
+    "notes": "A 112-room downtown hotel-casino known for low limits. Opened 1976; last operated by Siegel Group. Closed in 2013 when sold for redevelopment [oai_citation:104‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,The%20D). Reopened as a boutique hotel/bar (no casino)."
+  },
+  {
+    "name": "Hard Rock Hotel & Casino",
+    "address": "4455 Paradise Rd, Paradise, NV",
+    "opened": "March 10, 1995",
+    "closed": "February 3, 2020",
+    "license_status": "Surrendered (relicensed as Virgin Hotels LV)",
+    "notes": "Popular rock-themed off-Strip resort [oai_citation:105‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,La%20Bayou). Closed 2020 after purchase by new owners. Property gutted/remodeled and re-opened in 2021 as Virgin Hotels Las Vegas (with a new tribal gaming license) [oai_citation:106‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,La%20Bayou)."
+  },
+  {
+    "name": "Holy Cow Casino & Brewery",
+    "address": "2423 Las Vegas Blvd S, Las Vegas, NV",
+    "opened": "1992",
+    "closed": "March 2002",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "Opened in 1992 as Nevada’s first microbrewery casino. Featured ~150 slots and a bar. Shut down in 2002 due to declining business [oai_citation:107‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Holy%20Cow%20Casino%20and%20Brewery). The building was later demolished; no casino now on site."
+  },
+  {
+    "name": "Key Largo Hotel & Casino",
+    "address": "377 E Flamingo Rd, Paradise, NV",
+    "opened": "1974",
+    "closed": "August 2005",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "A  Key West-themed locals casino (formerly Ambassador Inn). Renamed Key Largo in 1997, offering ~300 slots and a few table games. Closed in 2005 amid financial issues [oai_citation:108‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,Las%20Vegas%20Club); demolished in 2007."
+  },
+  {
+    "name": "Klondike Hotel & Casino (South Strip)",
+    "address": "5191 Las Vegas Blvd S, Paradise, NV",
+    "opened": "1976",
+    "closed": "June 28, 2006",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened 1976 in a converted motel. Small  slot casino famous for its neon Klondike sign [oai_citation:109‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=K). Closed in 2006 for a failed redevelopment project; ultimately demolished. (Land remains vacant in 2025.)"
+  },
+  {
+    "name": "Klondike Sunset Casino",
+    "address": "444 W Sunset Rd, Henderson, NV",
+    "opened": "August 2, 1989",
+    "closed": "2014 (reopened 2016)",
+    "license_status": "Active",
+    "notes": "Opened as Tom’s Sunset Casino (1989) [oai_citation:110‡historiclasvegasproject.com](https://historiclasvegasproject.com/Klondike-Sunset-Casino.html#:~:text=Tom%27s%20Sunset%20Casino%20opened%20on,August%202%2C%201989); became Klondike Sunset in 1999 [oai_citation:111‡historiclasvegasproject.com](https://historiclasvegasproject.com/Klondike-Sunset-Casino.html#:~:text=Tom%27s%20Sunset%20Casino%20closed%20in,1998). Closed 2014 after owner’s death, then reopened under new ownership on Aug 3, 2016 [oai_citation:112‡historiclasvegasproject.com](https://historiclasvegasproject.com/Klondike-Sunset-Casino.html#:~:text=Klondike%20Sunset%20Casino%20closed%20in,2014). Continues to operate as a locals casino."
+  },
+  {
+    "name": "La Bayou (Northern Club)",
+    "address": "15 E Fremont St, Las Vegas, NV",
+    "opened": "1931",
+    "closed": "June 27, 2016",
+    "license_status": "Surrendered (business closed)",
+    "notes": "One of Vegas’s oldest gaming locations. Held the city’s first license in 1931 as the Northern Club [oai_citation:113‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,77). Later known as Monte Carlo Club and Coin Castle, then La Bayou from 2002. This tiny slots-only casino closed in 2016 when Derek Stevens bought the parcel [oai_citation:114‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,75)."
+  },
+  {
+    "name": "Lady Luck Hotel & Casino",
+    "address": "206 N 3rd St, Las Vegas, NV",
+    "opened": "1964",
+    "closed": "February 2006",
+    "license_status": "Active (reopened as Downtown Grand)",
+    "notes": "Opened 1964 (as Honest John’s), became Lady Luck in 1968. Closed for remodeling in 2006 and sat dormant [oai_citation:115‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,67). The license was preserved through temporary gaming. Reopened in Oct 2013 as Downtown Grand (license transferred to new owner)."
+  },
+  {
+    "name": "Landmark Hotel & Casino",
+    "address": "364 Convention Center Dr, Winchester, NV",
+    "opened": "July 1, 1969",
+    "closed": "August 8, 1990",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Futuristic 31-story tower near the Convention Center. Struggled financially despite famous marquee. Closed in 1990 [oai_citation:116‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=); imploded in 1995 [oai_citation:117‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=). Now a Las Vegas Convention Center parking area."
+  },
+  {
+    "name": "Lucky Dragon Hotel & Casino",
+    "address": "300 W Sahara Ave, Las Vegas, NV",
+    "opened": "November 19, 2016",
+    "closed": "October 2, 2018",
+    "license_status": "Surrendered (business rebranded non-gaming)",
+    "notes": "Boutique Asian-oriented casino with 27,500 sq ft gaming [oai_citation:118‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Casino). Failed to draw enough revenue; closed after 23 months. Went bankrupt and reopened as Ahern Hotel (no casino) in 2019."
+  },
+  {
+    "name": "Lucky Club / Ojos Locos Casino",
+    "address": "3227 Civic Center Dr, North Las Vegas, NV",
+    "opened": "March 1999",
+    "closed": "N/A (active)",
+    "license_status": "Active (renamed Ojos Locos in 2023)",
+    "notes": "Opened 1999 as Speedway Casino [oai_citation:119‡en.wikipedia.org](https://en.wikipedia.org/wiki/Ojos_Locos_Sports_Cantina_y_Casino#:~:text=The%20casino%20opened%20in%20March,casino%20having%20expanded%20to%20over); became Lucky Club in 2008. In 2022–23 it was renovated into a Latino-focused venue. Reopened February 6, 2023 as Ojos Locos Sports Cantina y Casino [oai_citation:120‡en.wikipedia.org](https://en.wikipedia.org/wiki/Ojos_Locos_Sports_Cantina_y_Casino#:~:text=the%20focal%20point.,28) (same license, rebranded)."
+  },
+  {
+    "name": "Mermaids Casino",
+    "address": "32 E Fremont St, Las Vegas, NV",
+    "opened": "1956",
+    "closed": "June 27, 2016",
+    "license_status": "Surrendered (business closed)",
+    "notes": "Opened 1956 as Silver Palace (Fremont’s first all-slot casino), later Carousel and Sassy Sally’s. Renamed Mermaids in 1999 with  slots, no tables. Closed in 2016 along with La Bayou [oai_citation:121‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,75) for the Circa project."
+  },
+  {
+    "name": "Mint Hotel & Casino",
+    "address": "100 E Fremont St, Las Vegas, NV",
+    "opened": "1957",
+    "closed": "August 1988",
+    "license_status": "Surrendered (merged into Binion’s)",
+    "notes": "Opened in 1957 as an elegant 300-room hotel-casino [oai_citation:122‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Moulin%20Rouge%20Hotel). Famous for its 26-story tower added in 1965. The Mint was acquired by Binion’s Horseshoe in 1988 and closed; its tower became part of Binion’s [oai_citation:123‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Moulin%20Rouge%20Hotel)."
+  },
+  {
+    "name": "Monte Carlo Resort & Casino",
+    "address": "3770 Las Vegas Blvd S, Paradise, NV",
+    "opened": "June 21, 1996",
+    "closed": "Rebranded 2018 (Park MGM)",
+    "license_status": "Active (as Park MGM)",
+    "notes": "A 3,000-room Strip megaresort opened in 1996. Operated as Monte Carlo until a 2016–2018 rebranding to Park MGM [oai_citation:124‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,Now%20Park%20MGM). The property never fully closed, but the **Monte Carlo** name/license was retired in 2018."
+  },
+  {
+    "name": "Moulin Rouge Hotel & Casino",
+    "address": "900 W Bonanza Rd, Las Vegas, NV",
+    "opened": "May 24, 1955",
+    "closed": "November 1955",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "Historic first integrated casino in Las Vegas. Opened to great acclaim in May 1955, but financial troubles forced it to close after only 6 months [oai_citation:125‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,Moulin%20Rouge%20Hotel). Sporadic attempts to reopen failed; building burned down in 2003."
+  },
+  {
+    "name": "Nevada Palace Casino",
+    "address": "5255 Boulder Hwy, Las Vegas, NV",
+    "opened": "July 1, 1979",
+    "closed": "February 29, 2008",
+    "license_status": "Surrendered (replaced by Eastside Cannery)",
+    "notes": "A locals casino on Boulder Highway with  slots and bingo. Closed in 2008 [oai_citation:126‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,75) when Boyd Gaming demolished it to build Eastside Cannery on the site. (Eastside Cannery opened Aug 2008; closed in 2020, currently inactive.)"
+  },
+  {
+    "name": "Old Vegas (Old Nevada)",
+    "address": "2440 Boulder Hwy, Henderson, NV",
+    "opened": "November 1978",
+    "closed": "1987",
+    "license_status": "Surrendered (property redeveloped)",
+    "notes": "Western-themed amusement park and small casino in Henderson [oai_citation:127‡en.wikipedia.org](https://en.wikipedia.org/wiki/Old_Vegas#:~:text=Old%20Vegas%20was%20approved%20by,sale%20to%20television%20producer%20Burt). Offered a faux Old West town with a saloon casino. Opened late 1978, but fell into bankruptcy and closed by 1987. Later redeveloped (no casino)."
+  },
+  {
+    "name": "Opera House Casino & Saloon",
+    "address": "2542 Las Vegas Blvd N, North Las Vegas, NV",
+    "opened": "December 1995",
+    "closed": "2014",
+    "license_status": "Surrendered (business closed)",
+    "notes": "Small North Las Vegas casino known for bingo and cheap drinks. Opened 1995; by 2014 it had closed (license lapsed) [oai_citation:128‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,Riviera%20Hotel%20%26%20Casino). Building was sold and repurposed (no gaming there currently)."
+  },
+  {
+    "name": "Pair-O-Dice / 91 Club",
+    "address": "Highway 91 (Las Vegas Blvd S at Sahara), Paradise, NV",
+    "opened": "1931",
+    "closed": "Late 1940s",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "Las Vegas Blvd’s first casino: the Pair-O-Dice nightclub opened in 1931. Renamed the 91 Club in the 1940s. Ceased operations by 1948 when the Thunderbird opened nearby. Paved the way for modern Strip resorts."
+  },
+  {
+    "name": "People’s Choice Casino",
+    "address": "805 W. Owens Ave, Las Vegas, NV",
+    "opened": "1960s",
+    "closed": "1960s",
+    "license_status": "Surrendered (business defunct)",
+    "notes": "A small West Las Vegas casino owned by Sarann Knight-Preddy. Opened mid-1960s in the segregated Westside district [oai_citation:129‡en.wikipedia.org](https://en.wikipedia.org/wiki/People%27s_Choice_Casino#:~:text=Address%20805%20West%20Owens%20Las,Preddy). Offered slot machines and possibly table games for local patrons. Closed by the end of the 1960s."
+  },
+  {
+    "name": "Pioneer Club",
+    "address": "25 E Fremont St, Las Vegas, NV",
+    "opened": "April 1942",
+    "closed": "1995",
+    "license_status": "Surrendered (business became retail)",
+    "notes": "Classic downtown casino famous for the Vegas Vic neon cowboy. Operated from 1942 to 1995 [oai_citation:130‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=%2A%20Pair,Pioneer%20Club%20Las%20Vegas). After 53 years, its casino closed in ’95 and the space turned into a souvenir store. (Vegas Vic remains atop the building.)"
+  },
+  {
+    "name": "Queen of Hearts Hotel & Casino",
+    "address": "202 N. 5th St (Las Vegas Blvd N), Las Vegas, NV",
+    "opened": "1963",
+    "closed": "January 2010",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "Opened 1963 as Casbah Hotel & Casino [oai_citation:131‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Image%3A%20Ann%20Meyer%20Queen%20of,Hearts). Renamed Queen of Hearts in 1990, offering low-cost rooms and slots. Closed in 2010; the aging motel-casino was demolished to make way for the new City Hall site [oai_citation:132‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=budget%20prices,fully%20shed%20its%20troubled%20past)."
+  },
+  {
+    "name": "Railroad Pass Hotel & Casino",
+    "address": "2800 S. Boulder Hwy, Henderson, NV",
+    "opened": "August 1, 1931",
+    "closed": "N/A (active)",
+    "license_status": "Active",
+    "notes": "Opened in 1931 and still operating, Railroad Pass is one of Nevada’s oldest continuously licensed casinos. Located near Boulder City (annexed into Henderson in 2014). *Included here due to its historic license (omitted previously).*"
+  },
+  {
+    "name": "Royal Nevada Hotel & Casino",
+    "address": "3000 Las Vegas Blvd S, Paradise, NV",
+    "opened": "April 19, 1955",
+    "closed": "1957",
+    "license_status": "Surrendered (merged into Stardust)",
+    "notes": "A short-lived Strip resort with a “Royal” theme. Opened in 1955 but was financially unsuccessful. Closed in 1957 and was eventually absorbed by the adjacent Stardust resort [oai_citation:133‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,85) (became the Stardust’s Convention Center)."
+  },
+  {
+    "name": "Sahara (SLS) Las Vegas",
+    "address": "2535 Las Vegas Blvd S, Las Vegas, NV",
+    "opened": "1952",
+    "closed": "2011 (reopened 2014)",
+    "license_status": "Active (as Sahara)",
+    "notes": "The Sahara operated from 1952 until May 2011. Under new ownership it reopened in 2014 as **SLS Las Vegas**, then reverted to the **Sahara** name in 2019. Continuous license, but the interim SLS brand (2014–2019) was missing in the original data [oai_citation:134‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,Now%20Park%20MGM)."
+  },
+  {
+    "name": "Sands Hotel & Casino",
+    "address": "3355 Las Vegas Blvd S, Paradise, NV",
+    "opened": "December 15, 1952",
+    "closed": "June 30, 1996",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "The famed Sands hosted the Rat Pack and many classic performances. Closed in 1996 and imploded in November 1996 [oai_citation:135‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=match%20at%20L173%20,SANDS%20%E2%80%93%201996). The Venetian now occupies its site."
+  },
+  {
+    "name": "Silver City Casino",
+    "address": "3001 Las Vegas Blvd S, Winchester, NV",
+    "opened": "February 1974",
+    "closed": "October 31, 1999",
+    "license_status": "Surrendered (business closed)",
+    "notes": "Opened as Riata Casino, renamed **Silver City** in 1975. A smaller Strip casino (slots only in later years). Closed on Halloween 1999 [oai_citation:136‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,91); the gaming license was given up and the building was converted to retail space."
+  },
+  {
+    "name": "Silver Nugget Casino",
+    "address": "2140 Las Vegas Blvd N, North Las Vegas, NV",
+    "opened": "1954",
+    "closed": "March 2020",
+    "license_status": "Surrendered (inactive since 2020)",
+    "notes": "North Las Vegas casino with bowling and events. Opened mid-1950s, long known for low-price bingo and food. Closed during the March 2020 COVID lockdown and did not reopen [oai_citation:137‡youtube.com](https://www.youtube.com/watch?v=fs-soir-IbM#:~:text=Silver%20Nugget%20Casino%20closed%20since,the%20COVID%20lock%20down). As of 2023 the property remains closed and its nonrestricted license is inactive [oai_citation:138‡yogonet.com](https://www.yogonet.com/international/news/2020/08/20/54377-north-las-vegas-39-silver-nugget-requests-closure-extension-through-july-2021#:~:text=,July%20of%202021)."
+  },
+  {
+    "name": "Silver Slipper Casino",
+    "address": "3200 Las Vegas Blvd S, Paradise, NV",
+    "opened": "September 1950",
+    "closed": "November 1988",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "A small Strip casino renowned for its rotating neon shoe sign. Operated from 1950 until 1988, when it was purchased by Margaret Elardi (and later Steve Wynn) and closed [oai_citation:139‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,91). Demolished; now part of Wynn Las Vegas frontage."
+  },
+  {
+    "name": "Silverbird / El Rancho (1982)",
+    "address": "2755 Las Vegas Blvd S, Paradise, NV",
+    "opened": "1948 (Thunderbird)",
+    "closed": "July 6, 1992",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "This north Strip property was the Thunderbird (1948–1977), then **Silverbird** (1977–1981), then **El Rancho Casino** (1982–1992) [oai_citation:140‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=match%20at%20L234%20,RANCHO%20%E2%80%93%202000). Closed in 1992 and stood vacant. Imploded on October 3, 2000 [oai_citation:141‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Las%20Vegas%20Strip%2C%201986%2C%20UNLV,Special%20Collections)."
+  },
+  {
+    "name": "Slots-A-Fun Casino",
+    "address": "2890 Las Vegas Blvd S, Winchester, NV",
+    "opened": "1970s",
+    "closed": "N/A (active)",
+    "license_status": "Active (as slots-only venue)",
+    "notes": "A tiny Strip casino next to Circus Circus, known for cheap gaming in the 1980s-90s. Formerly had table games and its own license. Now operates with only a handful of slot machines and a bar. Technically still a nonrestricted license, but no table games remain."
+  },
+  {
+    "name": "South Coast (South Point) Casino",
+    "address": "9777 Las Vegas Blvd S, Enterprise, NV",
+    "opened": "February 2006",
+    "closed": "October 2006 (rebranded)",
+    "license_status": "Active (as South Point)",
+    "notes": "Coast Resorts opened this 660-room property as **South Coast** in early 2006. It was sold to Michael Gaughan and rebranded **South Point** in October 2006 [oai_citation:142‡lasvegas.fandom.com](https://lasvegas.fandom.com/wiki/Alphabetical_list_of_casinos#:~:text=). The resort has remained open continuously (only the name/licensee changed)."
+  },
+  {
+    "name": "The Western Hotel & Casino",
+    "address": "899 E Fremont St, Las Vegas, NV",
+    "opened": "August 1970",
+    "closed": "January 16, 2012",
+    "license_status": "Surrendered (business closed)",
+    "notes": "Low-roller casino (room rates $8/night) in downtown’s seedy east end. Opened 1970, it was famous for penny slots and 99¢ breakfasts. Closed in 2012 due to declining business and downtown redevelopment plans [oai_citation:143‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=W). Building still stands vacant."
+  },
+  {
+    "name": "Treasure Island Hotel & Casino",
+    "address": "3300 Las Vegas Blvd S, Paradise, NV",
+    "opened": "October 27, 1993",
+    "closed": "N/A (active)",
+    "license_status": "Active",
+    "notes": "Opened by MGM as a family-themed pirate resort in 1993 [oai_citation:144‡historiclasvegasproject.com](https://historiclasvegasproject.com/Treasure-Island-Hotel-Casino.html#:~:text=Project%20historiclasvegasproject,with%20The%20Sirens%20of). Still operating as **TI** (Treasure Island), now under Phil Ruffin’s ownership. *Note: Already in original dataset; included here for completeness if it was mistakenly omitted.*"
+  },
+  {
+    "name": "Tropicana Las Vegas",
+    "address": "3801 Las Vegas Blvd S, Paradise, NV",
+    "opened": "April 4, 1957",
+    "closed": "Expected October 2024",
+    "license_status": "Active (closure pending)",
+    "notes": "A classic Rat Pack-era resort. Continuously operated from 1957 [oai_citation:145‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=Image%3A%20front%20facade%20of%20the,tropicana%20las%20vegas%20at%20night). In 2024, its owner (Bally’s Corp) announced the Tropicana will close and be imploded for a baseball stadium [oai_citation:146‡neonmuseum.org](https://neonmuseum.org/news/history-of-the-demolished-hotels-in-las-vegas/#:~:text=). As of mid-2025 the casino is still open but slated to cease operations by Oct 2024."
+  },
+  {
+    "name": "Vacation Village Hotel & Casino",
+    "address": "6711 Las Vegas Blvd S, Enterprise, NV",
+    "opened": "October 1990",
+    "closed": "January 16, 2002",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "127-room motor inn casino at the far south Strip. Known for a 50¢ buffet and locals bingo. Closed in 2002 after bankruptcy [oai_citation:147‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,98). Demolished in 2003. The land was later used partly for South Point’s equestrian arena and remains mostly undeveloped."
+  },
+  {
+    "name": "Vegas World",
+    "address": "2000 Las Vegas Blvd S, Las Vegas, NV",
+    "opened": "July 13, 1974",
+    "closed": "February 1, 1995",
+    "license_status": "Surrendered (relicensed as Stratosphere)",
+    "notes": "Bob Stupak’s space-themed casino known for wild promotions. Closed in 1995 to undergo a $550M transformation into the Stratosphere tower resort [oai_citation:148‡en.wikipedia.org](https://en.wikipedia.org/wiki/Category:Defunct_casinos_in_the_Las_Vegas_Valley#:~:text=,98). The new Stratosphere opened in 1996 with a fresh license/ownership (Stupak had sold majority control)."
+  },
+  {
+    "name": "Wild Wild West Gambling Hall",
+    "address": "3330 W Tropicana Ave, Spring Valley, NV",
+    "opened": "July 1998",
+    "closed": "September 7, 2022",
+    "license_status": "Surrendered (property demolished)",
+    "notes": "A Station Casinos-owned truck stop casino and 260-room motel. Opened 1998 just west of I-15. Shut down permanently in 2022 for a planned mixed-use redevelopment [oai_citation:149‡vegaschanges.com](https://vegaschanges.com/category/permanently-closed-casinos/#:~:text=,Wild%20Wild%20West%20Casino). Buildings were demolished in 2023; license returned to the state."
+  }
+]
