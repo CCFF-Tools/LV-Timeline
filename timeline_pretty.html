@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>Vegas Casino Timeline - Neon Style</title>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <!-- vis.js Timeline CSS -->
+  <link href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" rel="stylesheet"/>
+  <style>
+    body, html { margin:0; padding:0; height:100%; background: radial-gradient(circle at top, #111, #000); color:#eee; font-family:'Orbitron', sans-serif; }
+    #timeline { width:100%; height:100%; }
+    /* Neon bars with glow */
+    .vis-item { border-radius:4px; border-width:1px; }
+    .vis-item-opening { background:#0ff; border-color:#0ff; box-shadow:0 0 8px #0ff; }
+    .vis-item-namechange { background:#f0f; border-color:#f0f; box-shadow:0 0 8px #f0f; }
+    .vis-item-closure { background:#f90; border-color:#f90; box-shadow:0 0 8px #f90; }
+    .vis-item-demolition { background:#f00; border-color:#f00; box-shadow:0 0 8px #f00; }
+    /* Axis styling */
+    .vis-timeline .vis-axis .vis-text { fill:#888; text-shadow:0 0 4px #000; }
+    .vis-timeline .vis-grid .vis-grid-line { stroke: #333; }
+    /* Group labels */
+    .vis-timeline .vis-group .vis-label { color:#ccc; font-weight:700; }
+    /* Legend */
+    #legend {
+      position:absolute; top:10px; right:10px;
+      background:rgba(0,0,0,0.7); padding:10px; border-radius:6px;
+      font-size:14px; line-height:1.4; z-index:10;
+    }
+    #legend h4 { margin:0 0 5px; font-size:16px; }
+    .legend-item { display:flex; align-items:center; margin-bottom:4px; }
+    .legend-swatch {
+      width:12px; height:12px; margin-right:6px; border-radius:2px;
+      box-shadow:0 0 6px currentColor; border:1px solid currentColor;
+    }
+    .legend-opening { color:#0ff; }
+    .legend-namechange { color:#f0f; }
+    .legend-closure { color:#f90; }
+    .legend-demolition { color:#f00; }
+  </style>
+</head>
+<body>
+  <div id="legend">
+    <h4>Legend</h4>
+    <div class="legend-item legend-opening"><span class="legend-swatch"></span>Opening</div>
+    <div class="legend-item legend-namechange"><span class="legend-swatch"></span>Name Change</div>
+    <div class="legend-item legend-closure"><span class="legend-swatch"></span>Closure</div>
+    <div class="legend-item legend-demolition"><span class="legend-swatch"></span>Demolition</div>
+  </div>
+  <div id="timeline"></div>
+  <script src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
+  <script>
+    const jsonUrl = window.location.origin + window.location.pathname.replace(/[^/]*$/, '') + 'list_full.json';
+    fetch(jsonUrl)
+      .then(r => r.text())
+      .then(text => {
+        const merged = text.replace(/]\s*\[/g, ',');
+        return JSON.parse(merged);
+      })
+      .then(raw => {
+        const cats = [...new Set(raw.map(c => c['Location Category']||'Unknown'))];
+        const groups = new vis.DataSet(cats.map((c,i)=>({id:i+1,content:c})));
+        const items = new vis.DataSet();
+        raw.forEach((c,i)=>{
+          const g = cats.indexOf(c['Location Category']||'Unknown')+1;
+          const name = c['Casino Name']||'Unnamed';
+          if (c['Open Date']) items.add({id:`open${i}`,group:g,content:`${name}<br/><small>Open</small>`,start:c['Open Date'],className:'vis-item-opening'});
+          if (/Renamed/i.test(c['Status'])) items.add({id:`rename${i}`,group:g,content:`${name}<br/><small>Name Change</small>`,start:c['Close Date']||c['Open Date'],className:'vis-item-namechange'});
+          if (c['Close Date']&&/Closed|Closure/i.test(c['Status'])) items.add({id:`close${i}`,group:g,content:`${name}<br/><small>Close</small>`,start:c['Close Date'],className:'vis-item-closure'});
+          if (/Demolished/i.test(c['Status'])) items.add({id:`demo${i}`,group:g,content:`${name}<br/><small>Demo</small>`,start:c['Close Date']||c['Open Date'],className:'vis-item-demolition'});
+        });
+        const opts={stack:true,horizontalScroll:true,zoomKey:'ctrlKey',maxHeight:'100%',start:'1900-01-01',end:'2025-12-31',groupOrder:'id'};
+        new vis.Timeline(document.getElementById('timeline'), items, groups, opts);
+      })
+      .catch(e=>console.error('Timeline error', e));
+  </script>
+</body>
+</html>
