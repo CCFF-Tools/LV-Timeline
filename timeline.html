@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vegas Casino Timeline</title>
+
+  <!-- vis.js Timeline CSS -->
+  <link
+    href="https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css"
+    rel="stylesheet"
+  />
+
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; background: #111; color: #eee; }
+    #timeline { width: 100%; height: 100%; }
+    /* Neon-style bars by event type */
+    .vis-item-opening     { background: #0ff; border-color: #0ff; }
+    .vis-item-namechange  { background: #f0f; border-color: #f0f; }
+    .vis-item-closure     { background: #f90; border-color: #f90; }
+    .vis-item-demolition  { background: #f00; border-color: #f00; }
+  </style>
+</head>
+<body>
+
+  <div id="timeline"></div>
+
+  <!-- vis.js Timeline script -->
+  <script src="https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js"></script>
+  <script>
+    // 1. Load raw JSON text (handles multiple top-level arrays)
+    fetch('list_full.json')
+      .then(res => res.text())
+      .then(text => {
+        // Merge "[...][...]" into "[..., ...]"
+        let parts = text.trim().split(/]\s*\[/g);
+        if (parts.length > 1) {
+          parts[0] = parts[0].replace(/^\[/, '');
+          parts[parts.length-1] = parts[parts.length-1].replace(/\]$/, '');
+          text = '[' + parts.join(',') + ']';
+        }
+        const raw = JSON.parse(text);
+
+        // 2. Build geography groups
+        const categories = [...new Set(raw.map(c => c['Location Category'] || 'Unknown'))];
+        const groups = new vis.DataSet(
+          categories.map((cat, i) => ({ id: i+1, content: cat }))
+        );
+
+        // 3. Flatten events into timeline items
+        const items = new vis.DataSet();
+        raw.forEach((c, idx) => {
+          const g = categories.indexOf(c['Location Category'] || 'Unknown') + 1;
+          const name = c['Casino Name'] || 'Unnamed Casino';
+          // Opening
+          if (c['Open Date']) {
+            items.add({
+              id: `open-${idx}`,
+              group: g,
+              content: `${name}<br/><small>Opening</small>`,
+              start: c['Open Date'],
+              className: 'vis-item-opening'
+            });
+          }
+          // Name Change
+          if (/Renamed/i.test(c['Status'])) {
+            const d = c['Close Date'] || c['Open Date'];
+            if (d) items.add({
+              id: `rename-${idx}`,
+              group: g,
+              content: `${name}<br/><small>Name Change</small>`,
+              start: d,
+              className: 'vis-item-namechange'
+            });
+          }
+          // Closure
+          if (c['Close Date'] && /Closed|Closure/i.test(c['Status'])) {
+            items.add({
+              id: `close-${idx}`,
+              group: g,
+              content: `${name}<br/><small>Closure</small>`,
+              start: c['Close Date'],
+              className: 'vis-item-closure'
+            });
+          }
+          // Demolition
+          if (/Demolished/i.test(c['Status'])) {
+            const d = c['Close Date'] || c['Open Date'];
+            if (d) items.add({
+              id: `demo-${idx}`,
+              group: g,
+              content: `${name}<br/><small>Demolition</small>`,
+              start: d,
+              className: 'vis-item-demolition'
+            });
+          }
+        });
+
+        // 4. Timeline configuration
+        const options = {
+          stack: true,
+          horizontalScroll: true,
+          zoomKey: 'ctrlKey',
+          maxHeight: '100%',
+          start: '1900-01-01',
+          end:   '2025-12-31',
+          groupOrder: 'id'
+        };
+
+        // 5. Render
+        const container = document.getElementById('timeline');
+        const timeline  = new vis.Timeline(container, items, groups, options);
+
+        // 6. Simple click handler (swap alert for modal)
+        timeline.on('itemclick', props => {
+          const it = items.get(props.item);
+          alert(
+            it.content.replace(/<br\s*\/?>/g, ' ') +
+            '\nDate: ' + it.start
+          );
+        });
+      })
+      .catch(err => console.error('Error loading JSON:', err));
+  </script>
+</body>
+</html>
